@@ -1,3 +1,14 @@
+/*Objetivo: Practicar la iteración sobre listas.
+
+Instrucciones:
+
+Crea un ArrayList de números enteros llamado numbers y añade los números del 1 al 5.
+Usa un bucle for para imprimir cada número.
+Usa un bucle for-each para imprimir los mismos números.
+Usa un bucle while para imprimir los números en orden inverso.*/
+
+
+
 import java.util.ArrayList;
 
 public class ejercicioDos {

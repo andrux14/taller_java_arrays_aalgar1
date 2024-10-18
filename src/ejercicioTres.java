@@ -1,3 +1,14 @@
+/*Objetivo: Filtrar elementos en una lista según un criterio específico.
+
+        Instrucciones:
+
+        Crea un ArrayList de números enteros.
+        Llénalo con los números 1 a 10.
+        Filtra los números pares en una nueva lista llamada evenNumbers.
+        Imprime la lista original y la lista de números pares.*/
+
+
+
 import java.util.ArrayList;
 
 public class ejercicioTres {

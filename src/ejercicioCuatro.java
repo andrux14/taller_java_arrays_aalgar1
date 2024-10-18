@@ -1,3 +1,14 @@
+/*Objetivo: Comparar dos listas y encontrar elementos comunes.
+
+        Instrucciones:
+
+        Crea dos ArrayList de String llamadas list1 y list2.
+        Llena list1 con: "Apple", "Banana", "Cherry", "Date".
+        Llena list2 con: "Banana", "Date", "Elderberry", "Fig".
+        Encuentra los elementos comunes entre las dos listas y guárdalos en una nueva lista llamada commonElements.
+        Imprime los elementos comunes.*/
+
+
 import java.util.ArrayList;
 
 public class ejercicioCuatro {

@@ -1,3 +1,17 @@
+/*Ejercicio 1: Creación y manipulación básica de ArrayList
+        Objetivo: Practicar la creación de un ArrayList, agregar, eliminar y modificar elementos.
+
+        Instrucciones:
+
+        Crea un ArrayList de tipo String llamado fruits.
+        Agrega los siguientes elementos: "Apple", "Banana", "Cherry".
+        Imprime el tamaño de la lista y los elementos.
+        Elimina "Banana" de la lista.
+        Cambia el valor de "Cherry" por "Orange".
+        Imprime la lista resultante.*/
+
+
+
 import java.util.ArrayList;
 
 public class ejercicioUno {

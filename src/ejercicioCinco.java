@@ -1,3 +1,11 @@
+/*Objetivo: Convertir un ArrayList en un array nativo de Java.
+
+        Instrucciones:
+
+        Crea un ArrayList de enteros con los valores del 1 al 5.
+        Convierte este ArrayList en un array de tipo Integer[].
+        Imprime el contenido del array usando un bucle for.*/
+
 import java.util.ArrayList;
 
 public class ejercicioCinco {
